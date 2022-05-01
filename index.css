@@ -98,6 +98,12 @@ body{
     margin-right: 8%;
     
 }
+.skills{
+    width: 90%;
+    height: auto;
+    background-color: transparent;
+}
+
 .links{
     color: rgb(116, 128, 148);
     text-decoration: none;
